@@ -6,7 +6,7 @@ int main() {
   MessageBox(
     NULL, 
     "Pika Pika! Hiya! I'm a Pikachu! I am a fun pokemon, I am a peaceful virus that requests that you delete all of your other starter pokemon and grind for me. If you already have a Pikachu, then please get me to level 100! Pika Pika! - Pikachu Virus!",
-    "A Glaceon challenges you to a battle !",
+    "Pikachu points a gun at you and wants to talk !",
     MB_ICONERROR | MB_YESNOCANCEL | MB_DEFBUTTON1
   );
 
